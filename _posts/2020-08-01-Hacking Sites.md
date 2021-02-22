@@ -361,7 +361,7 @@ Electrica is a puzzle/challenge site which has grown from two previous sites - C
 ### [try to decrypt](https://www.trytodecrypt.com/index.php)
 A nice short set of bootleg crypto
 
-### [Cryptoclub](https://www.cryptoclub.org/challenges/index.php)
+### [Cryptoclub](https://www.cryptoclub.org/#vChallenges)
 Crack mysterious messages, submit jokes for others to decrypt, and access secret messages within your private groups.
 
 ### [mystery twister](https://www.mysterytwisterc3.org/en/)
@@ -435,6 +435,9 @@ OWASP Juice Shop is probably the most modern and sophisticated insecure web appl
 
 ### [xss payloads](http://www.xss-payloads.com/tools-list.html?t#category=training)
 All about XSS attacks and payloads
+
+### [Spyse](https://spyse.com/)
+OSINT search engine for quick target overview and attack surface mapping. One of the best for newcomers. Can be used freely.
 
 ### [portswigger](https://portswigger.net/web-security)
 Free, online web security training from the creators of Burp Suite
